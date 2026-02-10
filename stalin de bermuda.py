@@ -6,6 +6,8 @@ def shelve (AK72):
 
         shelve in shelve (AK72 = 10)
 
+
+
 print("O numero de bermudas que o stalin usa, é: $ + num: 10")
 
 input("Digite aqui o numero de bermudas que stalin usa: ")
@@ -29,3 +31,19 @@ input("O preço subtraido de stalin em que comprou roupas e armas é de? $ + num
 print("O numero de itens em que o stalin usa é: $ + num: ")
 
 input("Digite aqui o numero de itens comprados por stalin: ")
+
+
+
+def num2(preçodebermudas):
+
+    num1: 100
+    num2: 90
+print("stalin comprou as bermudas e teve seu salário subtraído por 10 de 100 que deu 90")
+
+input("Digite aqui o preço subtraído de stalin: $ + num: ")
+def num2(preçodearmas):
+    num2: 90
+    num2: 80
+print("stalin comprou as armas que são 10 AK-47 e teve seu salário subtraído por 10.")
+
+input("o preço subtraído de stalin após ele comprar 10 bermudas e 10 AK-47 são: $ + num: ")
