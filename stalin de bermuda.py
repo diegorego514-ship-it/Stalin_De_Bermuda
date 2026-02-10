@@ -8,3 +8,6 @@ def shelve (AK72):
 
 print("O numero de bermudas que o stalin usa, é: $ + num: 10")
 
+input("Digite aqui o numero de bermudas que stalin usa: ")
+
+input("numero de bermudas que o stalin usa: $ + num: ")
