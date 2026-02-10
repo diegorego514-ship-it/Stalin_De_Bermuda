@@ -25,3 +25,7 @@ print("O preço subtraido de stalin é: ")
 input("Digite aqui o preço subtraido de stalin quando ele comprou as roupas: ")
 
 input("O preço subtraido de stalin em que comprou roupas e armas é de? $ + num: ")
+
+print("O numero de itens em que o stalin usa é: $ + num: ")
+
+input("Digite aqui o numero de itens comprados por stalin: ")
